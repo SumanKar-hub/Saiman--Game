@@ -1,0 +1,52 @@
+body{
+    text-align : center;
+}
+.contener{
+    height: 300px;
+    width : 300px;
+
+    margin:auto;
+    display : flex;
+    flex-wrap:wrap;
+    justify-content : space-evenly;
+}
+.btn{
+    height: 120px;
+    width:120px;
+    border: 5px solid black;
+    border-radius : 20px;
+
+}
+.red{
+    background-color:crimson;
+
+}
+.green{
+    background-color: darkgreen;
+}
+.yellow{
+    background-color: chocolate;
+}
+.blue{
+    background-color: cornflowerblue;
+}
+
+.flash{
+    background-color: white;
+    
+}
+.userFlash{
+    background-color: rgb(24, 221, 24);
+}
+#restart{
+    height :40px;
+    width : 100px;
+    border : 1px solid rgb(26, 95, 95);
+    border-radius : 30px;
+    margin : auto;
+    text-align :center;
+    padding-top : 20px;
+    background-color: aqua;
+    text-transform: uppercase;
+    font-weight: 600 ;
+}
