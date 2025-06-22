@@ -1,2 +1,2 @@
-# Student  
-suman kar
+# Mind game
+ for kids
